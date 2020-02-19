@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandaSniper", "PandaSniper\PandaSniper.csproj", "{6EEAC8E1-443F-4934-91C3-0B806FA3DC0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterTest", "..\MasterTest\MasterTest.csproj", "{7312A575-6082-4625-8C95-3E3DAF1E51CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EEAC8E1-443F-4934-91C3-0B806FA3DC0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EEAC8E1-443F-4934-91C3-0B806FA3DC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EEAC8E1-443F-4934-91C3-0B806FA3DC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EEAC8E1-443F-4934-91C3-0B806FA3DC0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7312A575-6082-4625-8C95-3E3DAF1E51CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7312A575-6082-4625-8C95-3E3DAF1E51CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7312A575-6082-4625-8C95-3E3DAF1E51CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7312A575-6082-4625-8C95-3E3DAF1E51CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {691F221C-2380-4008-BCE8-621BFC771CCF}
+	EndGlobalSection
+EndGlobal
